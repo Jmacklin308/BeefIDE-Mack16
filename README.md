@@ -15,7 +15,7 @@ I haven't seen a whole lot of documenation on how to do this so I might as well 
 
 Every UI element in beef can be edited in the "DarkUI.psd" file under "C:\Program Files\BeefLang\bin\images". Open up that file in your favorite (hopefully non-adobe) product and you'll notice most every layer is tied to an icon on screen. If you want to change the code editor background edit this one image
 
-![Background Icon]("Screenshot 2026-06-26 095806.png"),
+![Background Icon](screenshot.png),
 
 
 
